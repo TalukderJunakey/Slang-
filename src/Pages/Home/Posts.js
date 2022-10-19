@@ -410,7 +410,7 @@ const Posts = () => {
                                 </div>
                                 <div class="modal-body ">
 
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Post</button>
+                                    <button type="button" class="btn btn-secondary rounded text-xl" data-bs-dismiss="modal">Post</button>
 
                                     <p> Comments</p>
 
